@@ -4,7 +4,7 @@ Hyper Pay x402 is a web-native payment layer that brings peer-to-peer payments t
 
 This documentation describes the available HTTP endpoints for wallet authentication and x402-compliant payment processing.
 
-> Note: These docs are provided for developers and partners integrating with Hyper Pay.  
+> Note: These docs are provided for developers and partners integrating with Hyper Pay x402.  
 > The backend implementation and deployment configuration remain private.
 
 ---
@@ -29,7 +29,7 @@ This documentation describes the available HTTP endpoints for wallet authenticat
 
 All interactions start by verifying a wallet signature using `/auth/verify-wallet`.
 
-Clients must sign the fixed message `Login to Hyper Pay` with their Solana wallet and send:
+Clients must sign the fixed message `Login to Hyper Pay x402` with their Solana wallet and send:
 
 ```json
 {
