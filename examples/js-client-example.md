@@ -2,7 +2,7 @@
 
 import fetch from "node-fetch";
 
-const BASE_URL = "https://api.hyperpayx402.com";
+const BASE_URL = "coming soon";
 
 async function verifyWallet(publicKey, signature) {
   const res = await fetch(`${BASE_URL}/auth/verify-wallet`, {

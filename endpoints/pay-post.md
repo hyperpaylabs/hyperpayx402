@@ -3,8 +3,8 @@
 Accepts a signed Solana transaction that fulfills a prior x402 payment requirement.
 
 ### Headers
-X-PAYMENT — Base64-encoded payment requirement  
-Content-Type — application/json
+X-PAYMENT - Base64-encoded payment requirement  
+Content-Type - application/json
 
 ### Request Body
 {
