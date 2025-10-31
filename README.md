@@ -11,7 +11,7 @@ This documentation describes the available HTTP endpoints for wallet authenticat
 
 ## Overview
 
-- **Base URL:** `https://api.hyperpayx402.com`
+- **Base URL:** `coming soon`
 - **Network:** Solana Mainnet
 - **Asset:** USDC (Mint: EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)
 - **Protocol:** x402 v1
