@@ -22,7 +22,7 @@ Examples of unacceptable behavior include:
 ## Enforcement
 
 Project maintainers are responsible for clarifying and enforcing this Code of Conduct.  
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainers at **contact@hyperpaylabs.com**.  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainers on X (Twitter).  
 
 All complaints will be reviewed and investigated promptly and fairly.
 
