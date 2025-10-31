@@ -9,7 +9,7 @@ curl -X POST comingsoon/auth/verify-wallet ^
 curl "comingsoon/pay?recipient=<RECIPIENT_PUBLIC_KEY>&amount=10.0&note=Dinner"
 
 ### Submit Signed Transaction
-curl -X POST https://api.hyperpayx402.com/pay ^
+curl -X POST comingsoon/pay ^
   -H "Content-Type: application/json" ^
   -H "X-PAYMENT: <BASE64_REQUIREMENT>" ^
   -d "{\"serializedTransaction\":\"<BASE64_TRANSACTION>\"}"
