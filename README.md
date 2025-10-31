@@ -12,7 +12,7 @@ This repository includes:
 
 ## Overview
 
-- Base URL: `https://api.hyperpayx402.com` (production)  
+- Base URL: `coming soon` (production)  
 - Local Dev URL: `http://localhost:4021`
 - Network: Solana Mainnet  
 - Asset: USDC (EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v)  
