@@ -6,6 +6,8 @@ This repository contains a subset of the backend service code used within the la
 
 ------------------------------------------------------------
 
+![Telepay Banner](assets/banner.jpg)
+
 ## Overview
 
 Telepay allows Telegram users to send and receive USDC payments directly inside chat sessions. It uses the Solana blockchain as the settlement layer and leverages Phantom for wallet signing. Each Telegram user is mapped to an on-chain wallet address, and every payment is handled as a fully verifiable blockchain transaction.
@@ -132,6 +134,8 @@ Planned enhancements include:
 ------------------------------------------------------------
 
 ## Author and License
+
+[Follow Telepay on X](https://x.com/UseTelepay)
 
 Telepay was developed as part of a broader research and engineering initiative focused on linking decentralized finance tools with mainstream messaging platforms.
 All code is released under the MIT License (see LICENSE file).
